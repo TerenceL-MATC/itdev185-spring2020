@@ -1,0 +1,9 @@
+Polly
+3
+Female
+Parrots move by flapping their wings.
+Tropical Paradise
+Parrot
+Herbivore
+No
+

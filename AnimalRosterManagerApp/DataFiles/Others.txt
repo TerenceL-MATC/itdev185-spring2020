@@ -1,0 +1,8 @@
+Webber
+1
+Female
+Spiders move by walking on their legs and swinging by web.
+Inside a Cave
+Spider
+Carnivore
+

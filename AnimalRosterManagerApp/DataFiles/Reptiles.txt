@@ -1,0 +1,10 @@
+Iggy
+10
+Male
+Tropical Paradise
+Iguana
+Omnivore
+Iguanas move by walking.
+No
+Yes
+
