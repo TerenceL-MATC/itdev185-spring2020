@@ -187,7 +187,7 @@ namespace MyGenericsProject
 
             Node<T> p;
 
-            for (p = start.link; p.link.link != null; p = p.link) { }
+            for (p = start; p.link.link != null; p = p.link) { }
 
             T valueOfDeletedNode = p.link.data;
             p.link = null;
