@@ -39,7 +39,7 @@ namespace MyLambdaExpressionsProject
             }
         }
 
-        //COntrols the creation of a list of words
+        //Controls the creation of a list of words
         static List<string> CreateList()
         {
             List<string> createdList = new List<string>();
