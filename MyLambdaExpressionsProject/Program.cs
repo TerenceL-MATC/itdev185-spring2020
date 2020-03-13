@@ -251,7 +251,7 @@ namespace MyLambdaExpressionsProject
             while (!int.TryParse(ReadLine(), out sortChoice) || sortChoice < 1 || sortChoice > 4)
             {
                 WriteLine(@"That option doesn't exist.  Please try again!");
-                WriteLine("Enter your choice (1-4): ");
+                Write("Enter your choice (1-4): ");
             }
 
             IEnumerable<string> sortedList; //The sorted list of words
