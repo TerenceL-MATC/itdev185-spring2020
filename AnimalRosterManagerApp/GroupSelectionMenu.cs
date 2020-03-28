@@ -67,16 +67,16 @@ namespace AnimalRosterManagerApp
                 switch (fileModifierOption)
                 {
                     case SystemOption.View:
-                        new ViewForm(selectedGroup).ShowDialog(); ;
+                        new ViewForm(selectedGroup).ShowDialog();
                         break;
                     case SystemOption.Add:
-                        new AddForm(selectedGroup).ShowDialog(); ;
+                        new AddForm(selectedGroup).ShowDialog();
                         break;
                     case SystemOption.Remove:
-                        new RemoveForm(selectedGroup).ShowDialog(); ;
+                        new RemoveForm(selectedGroup).ShowDialog();
                         break;
                     case SystemOption.Edit:
-                        new EditForm(selectedGroup).ShowDialog(); ;
+                        new EditForm(selectedGroup).ShowDialog();
                         break;
                 }
 
